@@ -46,7 +46,7 @@ const Contact = () => {
     {
       icon: '💼',
       title: 'LinkedIn',
-      value: 'linkedin.com/in/yourname',
+      value: 'https://www.linkedin.com/in/cat-ngoc-nguyen/',
       link: 'https://www.linkedin.com/in/cat-ngoc-nguyen/'
     }
   ];

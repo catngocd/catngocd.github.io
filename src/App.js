@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './components/Header';
-import Hero from './components/Hero';
+import Me from './components/Me';
 import Contact from './components/Contact';
 
 
@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <Header />
       <main>
-        <Hero />
+        <Me />
         <Contact />
       </main>
 
